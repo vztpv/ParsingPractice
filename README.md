@@ -1,5 +1,6 @@
 # ParsingPractice ( Using C or C++, in VisualStudio2017? )
-     Problem 1.
+
+# Problem 1.
        input.txt
          1 2 3 
          4 5 
