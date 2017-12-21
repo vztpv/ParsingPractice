@@ -1,5 +1,9 @@
 # ParsingPractice ( Using C or C++, in VisualStudio2017? )
 
+# Goal
+       1. multi line comment
+       2. delimiter size >= 1 
+
 # Problem 1. ( print sum of integers, line by line )
        input.txt
          1 2 3 
