@@ -1,4 +1,4 @@
-# ParsingPractice ( Using C or C++, in VisualStudio2017? )
+# ParsingPractice ( Using C or C++)
 
 # Goal
        1. multi line comment
